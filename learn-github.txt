@@ -1,0 +1,5 @@
+learn plan:
+-belajar dan menguasai node.js
+-belajar dan menguasai react.js
+-paham tentang database
+-paham boostrap
