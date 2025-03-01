@@ -3,5 +3,5 @@ learn plan:
 -belajar dan menguasai react.js
 -paham tentang database
 -belajar machine learning
--belajar pandas dan numpy
+-belajar php navite
 -belajar laravel
