@@ -4,3 +4,5 @@ learn plan:
 -paham tentang database
 -paham boostrap
 -belajar machine learning
+-belajar php navite
+-belajar laravel
