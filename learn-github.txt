@@ -4,4 +4,3 @@ learn plan:
 -paham tentang database
 -paham boostrap
 -belajar machine learning
--belajar data analis
